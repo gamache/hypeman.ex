@@ -1,0 +1,2 @@
+defmodule Hypeman do
+end
